@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\bin\Debug\net7.0\Gremlin.Repository.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\bin\Debug\net7.0\Gremlin.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\bin\Debug\net7.0\Gremlin.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\bin\Debug\net7.0\Gremlin.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\bin\Debug\net7.0\Gremlin.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\refint\Gremlin.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\Gremlin.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Repository\obj\Debug\net7.0\ref\Gremlin.Repository.dll

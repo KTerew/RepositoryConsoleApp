@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\bin\Debug\net7.0\Gremlin.Data.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\bin\Debug\net7.0\Gremlin.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\bin\Debug\net7.0\Gremlin.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\refint\Gremlin.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\Gremlin.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\GoldBadgeChallenge\CollectionsReview\Gremlin.Data\obj\Debug\net7.0\ref\Gremlin.Data.dll
